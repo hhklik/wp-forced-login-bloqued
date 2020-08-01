@@ -3,7 +3,7 @@
 Plugin Name: Forced Login Bloqued
 Plugin URI: https://github.com/hhklik/wp-forced-login-bloqued.git
 Description: force login bloqued, stop robot\'s  
-Version: 0.0.1
+Version: 0.0.2
 Author: Humberto Herrador
 Author URI: https://github.com/hhklik
 Text Domain: ktwpflb
