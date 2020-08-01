@@ -89,3 +89,8 @@ function kt_login_init() {
    	}
 }
 add_action('login_init', 'kt_login_init');
+
+function no_wordpress_errors(){ 
+  return 'Ups, ha ocurrido algo y no puedes acceder'; 
+} 
+add_filter( 'login_errors', 'no_wordpress_errors' );
